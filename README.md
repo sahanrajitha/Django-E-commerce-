@@ -5,7 +5,12 @@
 
 
 # Quick demo
-![demo](https://user-images.githubusercontent.com/84848431/205823163-ea827a70-4208-498f-bff5-a98bbcf6c60a.gif)
+
+
+https://user-images.githubusercontent.com/84848431/205824057-eb605cea-dd43-4984-8f5f-581ad566a284.mp4
+
+
+
 
 
 # Project Summery
